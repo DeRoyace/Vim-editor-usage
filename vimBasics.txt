@@ -1,0 +1,15 @@
+Vim Basics:
+
+vim filename.txt : to create a file 
+ i   : to insert or write in the file
+ esc : to exit the insert or write mode of the file
+ :q  : to exit the file
+ :wq : to save and exit the file
+ :q! : to discard changes
+
+On command mode ( Not in INSERT mode):
+h : to move cursor left
+l : to move cursor right
+j : to move down
+k : to move up
+o : to insert new line down with INSERT mode enabled
