@@ -12,4 +12,7 @@ h : to move cursor left
 l : to move cursor right
 j : to move down
 k : to move up
+Ofcourse, we can use up, down, left, right arrow keys.
 o : to insert new line down with INSERT mode enabled
+shift + v : to slect a line [visual line mode ON]. After selecting a line we can use up-down keys or k/j keys to select multiple lines. If we again press v again then it becomes visual mode; so we can select any character or string or lines from that position of the cursor.
+ 
